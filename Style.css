@@ -1,0 +1,27 @@
+img {
+    height: 50%;
+    width: 100%;
+}
+header{
+    background-color: hsl(180, 49%, 92%);
+    color: white;
+}
+h1 {
+    padding-top: 10px;
+   text-align: center; 
+   color: rgb(10, 6, 6);
+}
+nav ul {
+    margin: 0px;
+    padding: 5px 0px 5px 30px;
+}
+Nav li {
+    display: inline;
+    margin-left: 10em;
+}
+li {
+    color: black;
+}
+button {
+    align-self: baseline;
+}

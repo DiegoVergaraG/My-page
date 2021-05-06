@@ -1,15 +1,16 @@
-img {
-    height: 50%;
-    width: 100%;
+body{
+    background-image: url("Fabrica.jpg");
+    background-size: 100%;
+    background-repeat: no-repeat;
 }
-header{
-    background-color: hsl(180, 49%, 92%);
+header{  
     color: white;
+    height: 10%;
 }
 h1 {
     padding-top: 10px;
    text-align: center; 
-   color: rgb(10, 6, 6);
+   color: rgb(13, 17, 243);
 }
 nav ul {
     margin: 0px;
@@ -19,9 +20,16 @@ Nav li {
     display: inline;
     margin-left: 10em;
 }
-li {
-    color: black;
+ul a {
+    color: rgb(229, 245, 10);
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
 }
 button {
-    align-self: baseline;
+    margin-top: 90%;
+    margin-left: 90%;
+}
+footer {
+    color: rgb(14, 13, 13);
 }
